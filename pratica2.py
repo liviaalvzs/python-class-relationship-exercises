@@ -1,4 +1,4 @@
-'''
+''' PRATICA N° 2
 Classe Pedido:
 Atributos:
 produtos: Lista de objetos do classe Produto (inicializar no construtor como uma lista vazia)

@@ -1,4 +1,4 @@
-''' Exemplo de Associação de Classes:
+''' Ex1 de Associação de Classes:
 
 |-------------------|           |-------------------|
 | Pessoa            |           | Endereco          |
